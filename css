@@ -2,6 +2,7 @@
     box-sizing: border-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #faedcd;
+    
 }
 html {
     height: 100%;
@@ -23,3 +24,10 @@ main{
  header {
     background-image: url('imagens/https://www.google.com/url?sa=i&url=https%3A%2F%2Fmundoeducacao.uol.com.br%2Fhistoriageral%2Fdeuses-do-egito.htm&psig=AOvVaw3EHkafxI0pRob8MJvxjCsK&ust=1696301048648000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIiDupGs1oEDFQAAAAAdAAAAABAD');
  }
+h1{
+    background-color: #e3d5ca;
+}
+
+h3{
+   background-color: #edede9; 
+}
